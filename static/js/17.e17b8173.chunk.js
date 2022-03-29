@@ -1,0 +1,2 @@
+(this["webpackJsonpgoose-frontend"]=this["webpackJsonpgoose-frontend"]||[]).push([[17],{891:function(o,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return i}));n(0);var e=n(15);var i=function(){return Object(e.jsx)("img",{src:"".concat(localStorage.getItem("IS_DARK")?"/images/comingsoondark.png":"/images/comingsoonlight.jpg"),width:"50%",style:{display:"block",margin:"auto"},alt:"hii"})}}}]);
+//# sourceMappingURL=17.e17b8173.chunk.js.map
